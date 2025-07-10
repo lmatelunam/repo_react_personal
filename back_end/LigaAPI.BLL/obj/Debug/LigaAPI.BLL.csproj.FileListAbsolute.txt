@@ -1,0 +1,11 @@
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.BLL\bin\Debug\LigaAPI.BLL.dll
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.BLL\bin\Debug\LigaAPI.BLL.pdb
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.BLL\bin\Debug\LigaAPI.DAL.dll
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.BLL\bin\Debug\LigaAPI.Entidades.dll
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.BLL\bin\Debug\LigaAPI.DAL.pdb
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.BLL\bin\Debug\LigaAPI.Entidades.pdb
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.BLL\obj\Debug\LigaAPI.BLL.csproj.AssemblyReference.cache
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.BLL\obj\Debug\LigaAPI.BLL.csproj.CoreCompileInputs.cache
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.BLL\obj\Debug\LigaAPI.BLL.csproj.CopyComplete
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.BLL\obj\Debug\LigaAPI.BLL.dll
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.BLL\obj\Debug\LigaAPI.BLL.pdb

@@ -1,0 +1,6 @@
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.Entidades\bin\Debug\LigaAPI.Entidades.dll
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.Entidades\bin\Debug\LigaAPI.Entidades.pdb
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.Entidades\obj\Debug\LigaAPI.Entidades.csproj.CoreCompileInputs.cache
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.Entidades\obj\Debug\LigaAPI.Entidades.dll
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.Entidades\obj\Debug\LigaAPI.Entidades.pdb
+D:\PERSONAL\React\MiApiProyecto\LigaAPI.Entidades\obj\Debug\LigaAPI.Entidades.csproj.AssemblyReference.cache
